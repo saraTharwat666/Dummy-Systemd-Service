@@ -1,4 +1,4 @@
-[Dummy service](https://webdock.io/wp-content/uploads/2025/08/how-daemonize-application-systemd-image1.png)
+[Dummy service]('https://tecadmin.net/wp-content/uploads/2017/09/systemd-service-status.png')
 
 # Dummy Systemd Service
 
