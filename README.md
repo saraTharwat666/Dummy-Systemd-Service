@@ -1,3 +1,5 @@
+[Dummy service](https://webdock.io/wp-content/uploads/2025/08/how-daemonize-application-systemd-image1.png)
+
 # Dummy Systemd Service
 
 ## 🎯 Goal
@@ -23,4 +25,6 @@ This project demonstrates how to:
 - Automating background tasks with bash scripts.
 - Monitoring service status and logs.
 - Gaining basic **DevOps** operational skills.
+
+Project URL : https://roadmap.sh/projects/dummy-systemd-service
 
