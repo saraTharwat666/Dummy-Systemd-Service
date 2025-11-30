@@ -1,4 +1,4 @@
-[Dummy service]('https://tecadmin.net/wp-content/uploads/2017/09/systemd-service-status.png')
+![Dummy Service : ](https://tecadmin.net/wp-content/uploads/2017/09/systemd-service-status.png)
 
 # Dummy Systemd Service
 
